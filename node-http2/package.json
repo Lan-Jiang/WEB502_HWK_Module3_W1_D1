@@ -1,0 +1,11 @@
+{
+  "name": "node-http2",
+  "version": "1.0.0",
+  "description": "Node HTTP Modeule 2",
+  "main": "server_task2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lan",
+  "license": "ISC"
+}
